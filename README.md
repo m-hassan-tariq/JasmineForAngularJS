@@ -25,7 +25,7 @@ Below images will highlight new changes in ngninja project
 2. Resharper test Runner
 3. Chutzpa test runner
 
-![pastedimage 1](https://cloud.githubusercontent.com/assets/10474169/10744817/a7ba1cc8-7c0a-11e5-978a-d841bcf3d226.png)
+![pastedimage](https://cloud.githubusercontent.com/assets/10474169/10744819/a7cef3c8-7c0a-11e5-8bf2-3d58eb36ebd9.png)
 
 How to code Jasmine Test Case
 1. Mention test file name
@@ -36,4 +36,5 @@ How to code Jasmine Test Case
 
 P.S. I have written unit test cases for Candidate Module(Controller, Service, main Candidate file and Shared http service, total 18 Unit test cases)
 
-![pastedimage](https://cloud.githubusercontent.com/assets/10474169/10744819/a7cef3c8-7c0a-11e5-8bf2-3d58eb36ebd9.png)
+![pastedimage 1](https://cloud.githubusercontent.com/assets/10474169/10744817/a7ba1cc8-7c0a-11e5-978a-d841bcf3d226.png)
+
