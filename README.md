@@ -1,4 +1,4 @@
-# JasmineForAngularJS
+# Jasmine For AngularJS
 Jasmine Unit Test For AngularJS sample using Reshaprer and Chutzpa as test runner
 
 
